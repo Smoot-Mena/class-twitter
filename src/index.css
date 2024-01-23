@@ -1,5 +1,5 @@
 
-/* NAVBAR */
+/* NAVBAR  *************************/
 nav {
     background-color: #f2f2f2;
     padding: 21px;
@@ -28,7 +28,7 @@ a:hover {
     color: #555;
 }
 
-/* REGISTRATION */
+/* REGISTRATION  *************************/
 
 .container {
     max-width: 400px;
