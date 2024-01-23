@@ -76,7 +76,7 @@ a:hover {
     border: none;
     border-radius: 4px;
     cursor: pointer;
-    width: 22%;
+    width: 256.6px;
     box-sizing: border-box;
   }
   
@@ -85,7 +85,7 @@ a:hover {
   }
 
 
-  /* PROFILE PAGE */
+  /* PROFILE PAGE *************************/
 
   .container {
     max-width: 600px;
