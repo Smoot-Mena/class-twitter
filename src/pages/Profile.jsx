@@ -11,7 +11,7 @@ function Profile() {
         </div>
         <div className="profile-details">
           <h3>John Doe</h3>
-          <p>Email: johndoe@example.com</p>
+          <p>Email: johndoe@xyz.com</p>
           <p>Location: New York City</p>
           <p>Bio: ###</p>
         </div>
